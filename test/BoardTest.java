@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.List;
-public class Boardtest {
+public class BoardTest {
 
     BoardManager manager=new BoardManager();
     String title="aaa";
